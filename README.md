@@ -26,14 +26,14 @@
 ---
 
 ## 🛠 **Languages & Tools**
-### 📌 **Programming Languages**
+###  **Programming Languages**
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R"/>
 </div>
 
-### 🤖 **Machine Learning & AI**
+###  **Machine Learning & AI**
 <div align="left">
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="40" alt="PyTorch"/>
   <img width="12"/>
@@ -42,14 +42,14 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-learn"/>
 </div>
 
-### 🗄️ **Databases**
+###  **Databases**
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
   <img width="12"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL"/>
 </div>
 
-### 📊 **Data Science & Analytics**
+###  **Data Science & Analytics**
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
   <img width="12"/>
@@ -62,7 +62,7 @@
   <img width="12"/>
 </div>
 
-### ☁️ **Cloud & DevOps**
+###  **Cloud & DevOps**
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS"/>
 </div>
