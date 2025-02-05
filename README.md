@@ -19,7 +19,7 @@
 ###
 
 <p align="left">
-  Formado em Engenharia de Controle e Automação e atuando como Analista de Suporte / Sistemas, atualmente em transição para a área de engenharia de machine learning e IA.<br><br>
+  Formado em Engenharia de Controle e Automação e atuando como Analista de Suporte/Sistemas, atualmente em transição para a área de engenharia de machine learning e IA.<br><br>
   - 🔭 Focado no aprendizado em Inteligência Artificial, Machine Learning e Deep Learning.<br>
   - 📚 Aplico meus conhecimentos teóricos em projetos práticos para evoluir como programador.<br>
   - 💡 Tenho afinidade por Python e ferramentas de análise de dados.<br>
@@ -53,15 +53,4 @@
 </div>
 
 ###
-
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
