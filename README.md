@@ -5,9 +5,9 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://www.linkedin.com/in/pedro-prado-34369a1b5" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
@@ -26,7 +26,15 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">
+  Formado em Engenharia de Controle e Automação e atuando como Analista de Suporte / Sistemas, atualmente em transição para a área de engenharia de machine learning e IA.<br><br>
+  - 🔭 Focado no aprendizado em Inteligência Artificial, Machine Learning e Deep Learning.<br>
+  - 📚 Aplico meus conhecimentos teóricos em projetos práticos para evoluir como programador.<br>
+  - 💡 Tenho afinidade por Python e ferramentas de análise de dados.<br>
+  - ⚡ Apaixonado pela resolução de problemas complexos.<br>
+  - 🚀 Acredito que a prática constante e o aprendizado contínuo são essenciais para entregar soluções eficazes e inovadoras.<br>
+  - 🎯 Comprometido em construir uma carreira sólida como desenvolvedor, agregando valor com uma visão analítica, habilidades colaborativas e orientação para resultados.
+</p>
 
 ###
 
@@ -52,4 +60,3 @@
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
