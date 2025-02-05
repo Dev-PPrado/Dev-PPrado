@@ -1,59 +1,74 @@
-<p align="left">Hello World!!</p>
+<h1 align="center">Hey there! 👋</h1>
+<h2 align="center">I'm Pedro Henrique Prado</h2>
+<h3 align="center">🚀 A Data Science & A.I. Enthusiast from Brazil</h3>
 
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/pedro-prado-34369a1b5" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<p align="center">
+  <a href="https://www.linkedin.com/in/pedro-prado-34369a1b5" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-   <a href="https://www.instagram.com/pedrohs.prado?igsh=MWd4MDJyaGc3ZDRiaw==" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="https://github.com/pedrohsprado" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">
-  Olá, meu nome é Pedro Henrique de Souza Prado, sou formado em Engenharia de Controle e Automação e atuando como Analista de Suporte/Sistemas, atualmente em transição para a área de Data Science.<br><br>
-  - 🔭 Focado no aprendizado em Inteligência Artificial, Machine Learning e Deep Learning.<br>
-  - 📚 Aplico meus conhecimentos teóricos em projetos práticos para evoluir como programador.<br>
-  - 💡 Tenho afinidade por Python e ferramentas de análise de dados.<br>
-  - ⚡ Apaixonado pela resolução de problemas complexos.<br>
-  - 🚀 Acredito que a prática constante e o aprendizado contínuo são essenciais para entregar soluções eficazes e inovadoras.<br>
-  - 🎯 Comprometido em construir uma carreira sólida como desenvolvedor, agregando valor com uma visão analítica, habilidades colaborativas e orientação para resultados.
+  <a href="https://www.instagram.com/pedrohs.prado" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
-###
+---
 
-<h3 align="left">🛠 Language and tools</h3>
+## 🧑‍💻 **About Me**
+🎓 Graduated in **Control and Automation Engineering**, currently transitioning into **Data Science**.  
+📊 Passionate about **Machine Learning, Deep Learning, and A.I.**  
+🌱 Currently learning **Data Science, ML, DL, and Cloud Computing (AWS, GCP)**  
+🚀 Looking for new opportunities in **Data Science & A.I.**  
+📩 Reach me at **pedro.h.s.p@hotmail.com**  
 
-###
+---
 
+## 🔥 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrohsprado&theme=tokyonight" alt="GitHub Streak"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohsprado&layout=compact&theme=tokyonight" alt="Most Used Languages"/>
+</p>
+
+---
+
+## 🛠 **Languages & Tools**
+### 📌 **Programming Languages**
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R"/>
 </div>
 
-###
+### 🤖 **Machine Learning & AI**
+<div align="left">
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="40" alt="PyTorch"/>
+  <img width="12"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40" alt="TensorFlow"/>
+  <img width="12"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-learn"/>
+</div>
+
+### 🗄️ **Databases**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
+  <img width="12"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL"/>
+</div>
+
+### 📊 **Data Science & Analytics**
+<div align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
+  <img width="12"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="Seaborn"/>
+</div>
+
+### ☁️ **Cloud & DevOps**
+<div align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS"/>
+</div>
+
+
 
