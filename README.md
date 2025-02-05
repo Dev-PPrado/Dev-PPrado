@@ -25,15 +25,6 @@
 
 ---
 
-## 🔥 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrohsprado&theme=tokyonight" alt="GitHub Streak"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohsprado&layout=compact&theme=tokyonight" alt="Most Used Languages"/>
-</p>
-
----
-
 ## 🛠 **Languages & Tools**
 ### 📌 **Programming Languages**
 <div align="left">
