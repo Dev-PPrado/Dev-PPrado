@@ -19,7 +19,7 @@
 ###
 
 <p align="left">
-  Formado em Engenharia de Controle e Automação e atuando como Analista de Suporte/Sistemas, atualmente em transição para a área de engenharia de machine learning e IA.<br><br>
+  Olá, meu nome é Pedro Henrique de Souza Prado, sou formado em Engenharia de Controle e Automação e atuando como Analista de Suporte/Sistemas, atualmente em transição para a área de Data Science.<br><br>
   - 🔭 Focado no aprendizado em Inteligência Artificial, Machine Learning e Deep Learning.<br>
   - 📚 Aplico meus conhecimentos teóricos em projetos práticos para evoluir como programador.<br>
   - 💡 Tenho afinidade por Python e ferramentas de análise de dados.<br>
