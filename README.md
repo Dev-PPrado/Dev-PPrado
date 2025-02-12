@@ -55,9 +55,7 @@
   <img width="12"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="Matplotlib"/>
   <img width="12"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
-  <img width="12"/>
-</div>
+  </div>
 
 ###  **Cloud & DevOps**
 <div align="left">
