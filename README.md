@@ -1,6 +1,6 @@
-<h1 align="center">Hey there! 👋</h1>
-<h2 align="center">I'm Pedro Henrique Prado</h2>
-<h3 align="center">Data Science | Machine Learning | AI Engineering | Industrial Systems</h3>
+<h1 align="center">Olá! 👋</h1>
+<h2 align="center">Eu sou Pedro Henrique Prado</h2>
+<h3 align="center">Engenharia de Dados | Python | SQL | Cloud | Data & AI</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-prado-34369a1b5" target="_blank">
@@ -13,27 +13,39 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 Sobre mim
 
-🎓 **Control and Automation Engineer** with professional experience in industrial systems, automation, and data-driven environments.
+🎓 **Engenheiro de Controle e Automação**, com experiência profissional em sistemas industriais, automação, MES, bancos de dados e suporte a ambientes produtivos.
 
-💻 Currently focused on developing skills in **Data Science, Machine Learning, AI, and Data Engineering**.
+🚀 Atualmente estou direcionando minha carreira para **Engenharia de Dados**, desenvolvendo conhecimentos em construção de pipelines, integração, transformação e armazenamento de dados.
 
-📊 Experienced with **Python, SQL, databases, industrial data, and automation systems**, with a strong interest in transforming data into practical solutions.
+🐍 Tenho utilizado **Python e SQL** como principais ferramentas de desenvolvimento, aplicando esses conhecimentos em projetos práticos de portfólio.
 
-🤖 Currently building projects involving **Machine Learning, predictive analytics, Computer Vision, and AI applications**.
+🗄️ Estou aprofundando meus conhecimentos em **ETL/ELT, modelagem de dados, PostgreSQL, processamento de dados, Apache Airflow, Docker e Apache Spark/PySpark**.
 
-☁️ Expanding my knowledge in **Cloud Computing, Big Data, APIs, Docker, and MLOps**.
+☁️ Como próximo passo, estou expandindo meus conhecimentos em **Cloud Computing e arquitetura de dados**, com foco em AWS.
 
-🚀 Looking for opportunities where I can combine my background in **Industrial Automation** with **Data Science, Machine Learning, and AI**.
+🤖 No longo prazo, pretendo evoluir de Engenharia de Dados para **Data & AI Engineering**, explorando Machine Learning, GenAI, MLOps e aplicações de Inteligência Artificial.
 
-📩 Reach me at **[pedro.h.s.p@hotmail.com](mailto:pedro.h.s.p@hotmail.com)**
+🏭 Minha experiência em **automação industrial e sistemas de produção** também me permite explorar aplicações de dados e IA em ambientes industriais.
 
 ---
 
-## 🛠️ Languages & Tools
+## 🎯 Objetivo
 
-### 🐍 Programming
+Meu objetivo atual é conquistar uma oportunidade como **Engenheiro de Dados Júnior**, consolidando minha experiência através de projetos práticos e evoluindo continuamente minhas habilidades técnicas.
+
+Acredito em uma abordagem de aprendizado baseada em:
+
+**Aprender → Construir → Testar → Melhorar**
+
+Por isso, utilizo este GitHub para documentar minha evolução e desenvolver projetos que representem, de forma prática, os conhecimentos adquiridos durante minha transição para a área de Dados.
+
+---
+
+## 🛠️ Tecnologias e conhecimentos
+
+### 🐍 Programação
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
@@ -41,51 +53,43 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
 </div>
 
-### 🗄️ Data & Databases
+**Python | C# | Programação Orientada a Objetos**
+
+---
+
+### 🗄️ Dados e Bancos de Dados
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/>
-  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="SQL Server"/>
-</div>
-
-**SQL | Pandas | NumPy | Data Analysis | ETL**
-
-### 🤖 Machine Learning & AI
-
-<div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-learn"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/>
 </div>
 
-**Supervised Learning | Unsupervised Learning | Feature Engineering | Model Evaluation**
+**SQL | PostgreSQL | SQL Server | Pandas | NumPy**
 
-### ⚡ Big Data
+**ETL/ELT | Data Transformation | Data Modeling | Data Quality | Data Pipelines**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="Apache Spark"/>
-</div>
+---
 
-**Apache Spark | PySpark**
-
-### 🌐 APIs & Backend
+### ⚙️ Engenharia de Dados
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="Apache"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="40" alt="Apache Airflow"/>
 </div>
 
-**REST APIs | FastAPI | Docker**
+**Apache Airflow | Docker | ETL | APIs | Parquet | Apache Spark | PySpark**
+
+---
 
 ### ☁️ Cloud & DevOps
 
@@ -95,64 +99,90 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
 </div>
 
-**AWS | Git | GitHub | Docker | MLOps**
+**AWS | Git | GitHub | Docker | CI/CD**
 
 ---
 
-## 📊 Data Science & Analytics
+### 🤖 Data & AI — em evolução
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter"/>
-  <img width="12"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="Seaborn"/>
-  <img width="12"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="Matplotlib"/>
-</div>
+**Machine Learning | Feature Engineering | Model Evaluation | GenAI | MLOps**
 
-**Exploratory Data Analysis | Data Visualization | Statistical Analysis | Feature Engineering**
+Meu foco atual está em Engenharia de Dados. Esses conhecimentos fazem parte da minha evolução de longo prazo para atuar na interseção entre **Dados e Inteligência Artificial**.
 
 ---
 
-## 🏭 Industrial & Automation
+## 🏭 Experiência em Automação Industrial
 
-My background in **Control and Automation Engineering** allows me to work at the intersection of industrial systems, software, and data.
+Minha formação em **Engenharia de Controle e Automação** e experiência profissional em ambientes industriais complementam minha trajetória na área de Dados.
 
-**Industrial Automation | PLC | SCADA | MES | Industrial Databases | IoT | Process Data**
+**PLC | MES | SCADA | SQL Server | Sistemas Industriais | Dados de Processo | Automação**
 
----
-
-## 🚀 Current Focus
-
-* 📚 Data Science & Machine Learning
-* 🤖 Artificial Intelligence & Generative AI
-* 🐍 Advanced Python for Data & ML
-* 🗄️ SQL & Data Engineering
-* ⚡ Apache Spark & PySpark
-* ☁️ AWS & Cloud Computing
-* 🐳 Docker & MLOps
-* 🔌 APIs and ML deployment
-* 🏭 AI applications for industrial systems
+Essa experiência também abre possibilidades para desenvolver soluções de **Dados e IA aplicadas à indústria**.
 
 ---
 
-## 📌 Featured Projects
+## 📚 Atualmente estudando
 
-Coming soon...
+- 🗄️ SQL avançado
+- 🐍 Python para Engenharia de Dados
+- ⚙️ ETL / ELT e pipelines de dados
+- 🔄 Apache Airflow
+- 🐳 Docker
+- ⚡ Apache Spark / PySpark
+- 🏗️ Arquiteturas de dados
+- ☁️ AWS e Cloud Computing
+- 🧪 Data Quality e testes
+- 📊 Modelagem e otimização de dados
 
-> Building practical projects focused on **Machine Learning, Data Science, AI, and Industrial Applications**.
+### Próximos passos
+
+- Incremental Data Pipelines
+- Arquitetura Medallion
+- Processamento distribuído
+- Data Lakes
+- Cloud Data Engineering
+- MLOps
+- AI Engineering
 
 ---
 
-## 📫 Let's Connect
+## 🚀 Projetos
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pedro-prado-34369a1b5" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+### 🌤️ Pipeline ETL — Dados Climáticos
 
+Pipeline de Engenharia de Dados desenvolvido para coleta, transformação e armazenamento de dados meteorológicos.
 
+**Tecnologias:**
 
+`Python` `OpenWeatherMap API` `Apache Airflow` `PostgreSQL` `Docker` `Pandas` `Parquet`
 
+---
+
+### 📊 Northwind Sales Analytics
+
+Projeto desenvolvido para aprofundar conhecimentos em **SQL e PostgreSQL**, trabalhando com consultas analíticas, CTEs, Window Functions, agregações e análise temporal.
+
+**Tecnologias:**
+
+`SQL` `PostgreSQL` `CTEs` `Window Functions` `JOINs`
+
+---
+
+## 📈 Minha jornada
+
+```text
+Engenharia de Controle e Automação
+                ↓
+     Sistemas Industriais
+                ↓
+      SQL + Python + Dados
+                ↓
+      Engenharia de Dados
+                ↓
+    Cloud + Big Data + Spark
+                ↓
+        Data & AI Engineering
