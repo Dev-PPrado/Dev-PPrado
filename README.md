@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋</h1>
+<h1 align="center">Olá! </h1>
 <h2 align="center">Eu sou Pedro Henrique Prado</h2>
 <h3 align="center">Engenharia de Dados | Python | SQL | Cloud | Data & AI</h3>
 
@@ -14,25 +14,25 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+##  Sobre mim:
 
-🎓 **Engenheiro de Controle e Automação**, com experiência profissional em sistemas industriais, automação, MES, bancos de dados e suporte a ambientes produtivos.
+ **Engenheiro de Controle e Automação**, com experiência profissional em sistemas industriais, automação, MES, bancos de dados e suporte a ambientes produtivos.
 
-🚀 Atualmente estou direcionando minha carreira para **Engenharia de Dados**, desenvolvendo conhecimentos em construção de pipelines, integração, transformação e armazenamento de dados.
+ Atualmente estou direcionando minha carreira para **Engenharia de Dados**, desenvolvendo conhecimentos em construção de pipelines, integração, transformação e armazenamento de dados.
 
-🐍 Tenho utilizado **Python e SQL** como principais ferramentas de desenvolvimento, aplicando esses conhecimentos em projetos práticos de portfólio.
+ Tenho utilizado **Python e SQL** como principais ferramentas de desenvolvimento, aplicando esses conhecimentos em projetos práticos de portfólio.
 
-🗄️ Estou aprofundando meus conhecimentos em **ETL/ELT, modelagem de dados, PostgreSQL, processamento de dados, Apache Airflow, Docker e Apache Spark/PySpark**.
+ Estou aprofundando meus conhecimentos em **ETL/ELT, modelagem de dados, PostgreSQL, processamento de dados, Apache Airflow, Docker e Apache Spark/PySpark**.
 
-☁️ Como próximo passo, estou expandindo meus conhecimentos em **Cloud Computing e arquitetura de dados**, com foco em AWS.
+ Como próximo passo, estou expandindo meus conhecimentos em **Cloud Computing e arquitetura de dados**, com foco em AWS.
 
-🤖 No longo prazo, pretendo evoluir de Engenharia de Dados para **Data & AI Engineering**, explorando Machine Learning, GenAI, MLOps e aplicações de Inteligência Artificial.
+ No longo prazo, pretendo evoluir de Engenharia de Dados para **Data & AI Engineering**, explorando Machine Learning, GenAI, MLOps e aplicações de Inteligência Artificial.
 
-🏭 Minha experiência em **automação industrial e sistemas de produção** também me permite explorar aplicações de dados e IA em ambientes industriais.
+ Minha experiência em **automação industrial e sistemas de produção** também me permite explorar aplicações de dados e IA em ambientes industriais.
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 Meu objetivo atual é conquistar uma oportunidade como **Engenheiro de Dados Júnior**, consolidando minha experiência através de projetos práticos e evoluindo continuamente minhas habilidades técnicas.
 
@@ -46,7 +46,7 @@ Por isso, utilizo este GitHub para documentar minha evolução e desenvolver pro
 
 ## 🛠️ Tecnologias e conhecimentos
 
-### 🐍 Programação
+###  Programação
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
@@ -58,7 +58,7 @@ Por isso, utilizo este GitHub para documentar minha evolução e desenvolver pro
 
 ---
 
-### 🗄️ Dados e Bancos de Dados
+###  Dados e Bancos de Dados
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
@@ -92,7 +92,7 @@ Por isso, utilizo este GitHub para documentar minha evolução e desenvolver pro
 
 ---
 
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS"/>
@@ -108,7 +108,7 @@ Por isso, utilizo este GitHub para documentar minha evolução e desenvolver pro
 
 ---
 
-### 🤖 Data & AI — em evolução
+###  Data & AI — em evolução
 
 **Machine Learning | Feature Engineering | Model Evaluation | GenAI | MLOps**
 
@@ -116,7 +116,7 @@ Meu foco atual está em Engenharia de Dados. Esses conhecimentos fazem parte da 
 
 ---
 
-## 🏭 Experiência em Automação Industrial
+##  Experiência em Automação Industrial
 
 Minha formação em **Engenharia de Controle e Automação** e experiência profissional em ambientes industriais complementam minha trajetória na área de Dados.
 
@@ -126,18 +126,18 @@ Essa experiência também abre possibilidades para desenvolver soluções de **D
 
 ---
 
-## 📚 Atualmente estudando
+##  Atualmente estudando
 
-- 🗄️ SQL avançado
-- 🐍 Python para Engenharia de Dados
-- ⚙️ ETL / ELT e pipelines de dados
-- 🔄 Apache Airflow
-- 🐳 Docker
-- ⚡ Apache Spark / PySpark
-- 🏗️ Arquiteturas de dados
-- ☁️ AWS e Cloud Computing
-- 🧪 Data Quality e testes
-- 📊 Modelagem e otimização de dados
+-  SQL avançado
+-  Python para Engenharia de Dados
+-  ETL / ELT e pipelines de dados
+-  Apache Airflow
+-  Docker
+-  Apache Spark / PySpark
+-  Arquiteturas de dados
+-  AWS e Cloud Computing
+-  Data Quality e testes
+-  Modelagem e otimização de dados
 
 ### Próximos passos
 
@@ -151,7 +151,7 @@ Essa experiência também abre possibilidades para desenvolver soluções de **D
 
 ---
 
-## 🚀 Projetos
+##  Projetos
 
 ### 🌤️ Pipeline ETL — Dados Climáticos
 
