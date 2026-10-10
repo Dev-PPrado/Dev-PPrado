@@ -1,7 +1,7 @@
-<h1 align="center">Pedro Henrique Prado</h1>
+<img width="1920" height="4401" alt="image" src="https://github.com/user-attachments/assets/c4d1283e-9663-4362-a562-9622b5ada8cd" /><h1 align="center">Pedro Henrique Prado</h1>
 
 <p align="center">
-  <b>Data Engineer em transição</b> · Python · SQL · ETL/ELT · Airflow · Industrial Data
+  <b>Engenharia de Dados</b> · Python · SQL · ETL/ELT · Airflow · Industrial Data
 </p>
 
 <p align="center">
@@ -14,11 +14,19 @@
 
 ## Sobre mim
 
-Sou formado em **Engenharia de Controle e Automação** e trabalho há mais de 3 anos com sistemas industriais na indústria automotiva (Engineering Brasil, cliente Stellantis). No dia a dia lido com **SQL Server, MES, SCADA, PLC Rockwell e OPC UA**: consultas para investigar dados de produção, análise de logs para achar causa raiz e manutenção das integrações entre chão de fábrica e sistemas corporativos.
+## Sobre mim
 
-Foi nesse trabalho, vendo dados passarem de um sistema para outro, que decidi migrar para **Engenharia de Dados**. Este GitHub é onde construo essa transição: pipelines em Python com testes, orquestração com Airflow, bancos PostgreSQL e ambientes em Docker.
+Sou Engenheiro de Controle e Automação, com mais de 3 anos de experiência em sistemas industriais na indústria automotiva, atuando em um ambiente que integra PLCs, MES, SCADA, bancos de dados e sistemas corporativos.
 
-Meu foco hoje é **Data Engineer Júnior**. No médio prazo, quero trabalhar na interseção entre **dados e IA**, construindo a base de dados confiável que aplicações de IA precisam, de preferência em contexto industrial.
+Na minha experiência profissional, trabalho com SQL Server, análise de logs, investigação de falhas e integração entre sistemas industriais. Esse contexto me proporcionou uma visão prática sobre o fluxo de dados, a confiabilidade das informações e a importância de sistemas bem integrados.
+
+Atualmente, direciono meus estudos e projetos para **Engenharia de Dados**, desenvolvendo soluções com Python, SQL, PostgreSQL, APIs e pipelines ETL/ELT. Tenho explorado também testes automatizados, Docker, dbt e orquestração de pipelines, aplicando boas práticas de desenvolvimento aos meus projetos pessoais.
+
+Meu objetivo é construir pipelines confiáveis, processos de integração e arquiteturas de dados escaláveis, aproveitando minha experiência com sistemas industriais como diferencial para trabalhar com dados em ambientes complexos.
+
+A longo prazo, também tenho interesse na interseção entre Engenharia de Dados e Inteligência Artificial, especialmente na construção da infraestrutura de dados necessária para aplicações de IA.
+
+Este repositório reúne meus projetos práticos, experimentos e estudos em Engenharia de Dados.
 
 ---
 
