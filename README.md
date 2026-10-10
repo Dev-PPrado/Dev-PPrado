@@ -1,189 +1,110 @@
-<h1 align="center">Olá! </h1>
-<h2 align="center">Eu sou Pedro Henrique Prado</h2>
-<h3 align="center">Engenharia de Dados | Python | SQL | Cloud | Data & AI</h3>
+<h1 align="center">Pedro Henrique Prado</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pedro-hsprado-dataengineer" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <b>Data Engineer em transição</b> · Python · SQL · ETL/ELT · Airflow · Industrial Data
+</p>
 
-  <a href="https://github.com/Dev-PPrado" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+<p align="center">
+  <a href="https://dev-pprado.github.io"><img src="https://img.shields.io/badge/Portfólio-dev--pprado.github.io-0F172A?style=for-the-badge&logo=astro&logoColor=white" alt="Portfólio"/></a>
+  <a href="https://www.linkedin.com/in/pedro-hsprado-dataengineer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://dev-pprado.github.io/cv.pdf"><img src="https://img.shields.io/badge/Currículo-PDF-334155?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Currículo"/></a>
 </p>
 
 ---
 
-##  Sobre mim:
+## Sobre mim
 
- **Engenheiro de Controle e Automação**, com experiência profissional em sistemas industriais, automação, MES, bancos de dados e suporte a ambientes produtivos.
+Sou formado em **Engenharia de Controle e Automação** e trabalho há mais de 3 anos com sistemas industriais na indústria automotiva (Engineering Brasil, cliente Stellantis). No dia a dia lido com **SQL Server, MES, SCADA, PLC Rockwell e OPC UA**: consultas para investigar dados de produção, análise de logs para achar causa raiz e manutenção das integrações entre chão de fábrica e sistemas corporativos.
 
- Atualmente estou direcionando minha carreira para **Engenharia de Dados**, desenvolvendo conhecimentos em construção de pipelines, integração, transformação e armazenamento de dados.
+Foi nesse trabalho, vendo dados passarem de um sistema para outro, que decidi migrar para **Engenharia de Dados**. Este GitHub é onde construo essa transição: pipelines em Python com testes, orquestração com Airflow, bancos PostgreSQL e ambientes em Docker.
 
- Tenho utilizado **Python e SQL** como principais ferramentas de desenvolvimento, aplicando esses conhecimentos em projetos práticos de portfólio.
-
- Estou aprofundando meus conhecimentos em **ETL/ELT, modelagem de dados, PostgreSQL, processamento de dados, Apache Airflow, Docker e Apache Spark/PySpark**.
-
- Como próximo passo, estou expandindo meus conhecimentos em **Cloud Computing e arquitetura de dados**, com foco em AWS.
-
- No longo prazo, pretendo evoluir de Engenharia de Dados para **Data & AI Engineering**, explorando Machine Learning, GenAI, MLOps e aplicações de Inteligência Artificial.
-
- Minha experiência em **automação industrial e sistemas de produção** também me permite explorar aplicações de dados e IA em ambientes industriais.
+Meu foco hoje é **Data Engineer Júnior**. No médio prazo, quero trabalhar na interseção entre **dados e IA**, construindo a base de dados confiável que aplicações de IA precisam, de preferência em contexto industrial.
 
 ---
 
-##  Objetivo
+## Projetos em destaque
 
-Meu objetivo atual é conquistar uma oportunidade como **Engenheiro de Dados Júnior**, consolidando minha experiência através de projetos práticos e evoluindo continuamente minhas habilidades técnicas.
+### 📈 [Pipeline de estatísticas do GitHub](https://github.com/Dev-PPrado/Dev-PPrado.github.io)
+Pipeline ETL que coleta toda semana dados dos meus repositórios pela API do GitHub e publica o resultado no meu [portfólio](https://dev-pprado.github.io).
+- Extract, transform e load separados; a transformação é uma função pura coberta por **11 testes com pytest**
+- Validação de schema com **Pydantic**, gravação atômica e idempotente, retry com backoff e plano B quando a API não responde
+- **CI/CD no GitHub Actions**: testes → coleta → commit só se os dados mudaram → deploy no GitHub Pages
 
-Acredito em uma abordagem de aprendizado baseada em:
+`Python` `httpx` `Pydantic` `pytest` `GitHub Actions`
 
-**Aprender → Construir → Testar → Melhorar**
+### 🌤️ [Weather Data Pipeline](https://github.com/Dev-PPrado/weather_data_pipeline_ETL)
+DAG do **Airflow** que roda a cada hora: extrai dados da API OpenWeatherMap, normaliza o JSON com Pandas, grava um intermediário em **Parquet** e carrega no **PostgreSQL**. Ambiente completo em Docker Compose.
 
-Por isso, utilizo este GitHub para documentar minha evolução e desenvolver projetos que representem, de forma prática, os conhecimentos adquiridos durante minha transição para a área de Dados.
+`Python` `Airflow` `Pandas` `Parquet` `PostgreSQL` `SQLAlchemy` `Docker`
 
----
+### ⚡ [Pokémon ETL Pipeline](https://github.com/Dev-PPrado/Pokemon-ETL-Pipeline)
+Pipeline modular (extract → transform → validate → load) sobre a PokeAPI, que uso como estrutura de referência para os próximos projetos. Validação com Pydantic antes da carga, logging em console e arquivo, tratamento de erros e configuração por variáveis de ambiente.
 
-## 🛠️ Tecnologias e conhecimentos
+`Python` `Pydantic` `SQLAlchemy` `SQLite` `pytest`
 
-###  Programação
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
-</div>
-
-**Python | C# | Programação Orientada a Objetos**
-
----
-
-###  Dados e Bancos de Dados
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="SQL Server"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/>
-</div>
-
-**SQL | PostgreSQL | SQL Server | Pandas | NumPy**
-
-**ETL/ELT | Data Transformation | Data Modeling | Data Quality | Data Pipelines**
+### Outros
+- **[Northwind Sales Analytics](https://github.com/Dev-PPrado/northwind-sales-analytics)**: SQL analítico em PostgreSQL com CTEs, window functions e análise temporal
+- **[Product CRUD API](https://github.com/Dev-PPrado/product-crud-api)**: API REST com FastAPI, PostgreSQL e front em Streamlit, tudo em Docker Compose
 
 ---
 
-### ⚙️ Engenharia de Dados
+## Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="Apache"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="40" alt="Apache Airflow"/>
-</div>
+**Uso profissional** (Engineering Brasil)
 
-**Apache Airflow | Docker | ETL | APIs | Parquet | Apache Spark | PySpark**
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MES](https://img.shields.io/badge/MES-475569?style=flat-square)
+![SCADA](https://img.shields.io/badge/SCADA-475569?style=flat-square)
+![OPC UA](https://img.shields.io/badge/OPC_/_OPC_UA-475569?style=flat-square)
+![Kepware](https://img.shields.io/badge/Kepware-475569?style=flat-square)
+![PLC Rockwell](https://img.shields.io/badge/PLC_Rockwell-475569?style=flat-square)
+![APIs](https://img.shields.io/badge/APIs_/_Web_Services-475569?style=flat-square)
 
----
+**Projetos pessoais**
 
-###  Cloud & DevOps
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=flat-square&logo=apacheparquet&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
-</div>
+**Estudando agora**
 
-**AWS | Git | GitHub | Docker | CI/CD**
-
----
-
-###  Data & AI — em evolução
-
-**Machine Learning | Feature Engineering | Model Evaluation | GenAI | MLOps**
-
-Meu foco atual está em Engenharia de Dados. Esses conhecimentos fazem parte da minha evolução de longo prazo para atuar na interseção entre **Dados e Inteligência Artificial**.
-
----
-
-##  Experiência em Automação Industrial
-
-Minha formação em **Engenharia de Controle e Automação** e experiência profissional em ambientes industriais complementam minha trajetória na área de Dados.
-
-**PLC | MES | SCADA | SQL Server | Sistemas Industriais | Dados de Processo | Automação**
-
-Essa experiência também abre possibilidades para desenvolver soluções de **Dados e IA aplicadas à indústria**.
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark_/_PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 
 ---
 
-##  Atualmente estudando
+## O que estou construindo
 
--  SQL avançado
--  Python para Engenharia de Dados
--  ETL / ELT e pipelines de dados
--  Apache Airflow
--  Docker
--  Apache Spark / PySpark
--  Arquiteturas de dados
--  AWS e Cloud Computing
--  Data Quality e testes
--  Modelagem e otimização de dados
-
-### Próximos passos
-
-- Incremental Data Pipelines
-- Arquitetura Medallion
-- Processamento distribuído
-- Data Lakes
-- Cloud Data Engineering
-- MLOps
-- AI Engineering
-
----
-
-##  Projetos
-
-### 🌤️ Pipeline ETL — Dados Climáticos
-
-Pipeline de Engenharia de Dados desenvolvido para coleta, transformação e armazenamento de dados meteorológicos.
-
-**Tecnologias:**
-
-`Python` `OpenWeatherMap API` `Apache Airflow` `PostgreSQL` `Docker` `Pandas` `Parquet`
-
----
-
-### 📊 Northwind Sales Analytics
-
-Projeto desenvolvido para aprofundar conhecimentos em **SQL e PostgreSQL**, trabalhando com consultas analíticas, CTEs, Window Functions, agregações e análise temporal.
-
-**Tecnologias:**
-
-`SQL` `PostgreSQL` `CTEs` `Window Functions` `JOINs`
-
----
-
-## 📈 Minha jornada
+| Trilha | Status |
+|---|---|
+| Python, SQL, Git/GitHub e workshop de dbt (Jornada de Dados) | ✅ Concluído em 2026 |
+| Imersão Databricks: Unity Catalog, Delta Lake, arquitetura medallion, MLflow | ✅ Concluído em 2026 |
+| Trilha de Engenharia de Dados (Jornada de Dados) | 🔄 Em andamento |
+| Projeto dbt + Airflow com Astronomer Cosmos | 📌 Próximo projeto |
+| Modelagem de dados, bancos relacionais/NoSQL e governança | 📌 Planejado |
+| PySpark, Data Lake/Lakehouse e AWS | 📌 Planejado |
+| Data & AI: pipelines que alimentam aplicações de IA, MLflow e LLMs | 📌 Planejado |
 
 ```text
-Engenharia de Controle e Automação
-                ↓
-     Sistemas Industriais
-                ↓
-      SQL + Python + Dados
-                ↓
-      Engenharia de Dados
-                ↓
-    Cloud + Big Data + Spark
-                ↓
-        Data & AI Engineering
+Automação industrial  →  SQL + Python  →  Engenharia de Dados  →  Cloud + Spark  →  Data & AI Engineering
+     (hoje, no trabalho)     (projetos)         (foco atual)           (estudando)          (próximo passo)
+```
+
+---
+
+<p align="center">
+  Aberto a conversas sobre vagas de <b>Data Engineer Júnior</b>, Analytics Engineer e Data Platform.<br/>
+  📍 Belo Horizonte, MG · 💬 Português (nativo) · Inglês (intermediário)
+</p>
