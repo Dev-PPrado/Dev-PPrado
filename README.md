@@ -1,4 +1,4 @@
-<img width="1920" height="4401" alt="image" src="https://github.com/user-attachments/assets/c4d1283e-9663-4362-a562-9622b5ada8cd" /><h1 align="center">Pedro Henrique Prado</h1>
+<h1 align="center">Pedro Henrique Prado</h1>
 
 <p align="center">
   <b>Engenharia de Dados</b> · Python · SQL · ETL/ELT · Airflow · Industrial Data
