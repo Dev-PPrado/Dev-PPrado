@@ -14,8 +14,6 @@
 
 ## Sobre mim
 
-## Sobre mim
-
 Sou Engenheiro de Controle e Automação, com mais de 3 anos de experiência em sistemas industriais na indústria automotiva, atuando em um ambiente que integra PLCs, MES, SCADA, bancos de dados e sistemas corporativos.
 
 Na minha experiência profissional, trabalho com SQL Server, análise de logs, investigação de falhas e integração entre sistemas industriais. Esse contexto me proporcionou uma visão prática sobre o fluxo de dados, a confiabilidade das informações e a importância de sistemas bem integrados.
